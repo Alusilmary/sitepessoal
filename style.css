@@ -92,6 +92,10 @@ a{
     background: lightslategray;
 }
 
-.contact_1 h3 {
+.contact_1 h3{
     display: inline;
+}
+
+#contact iframe{
+    width: 100%;
 }
